@@ -1,7 +1,10 @@
-streamlit
-tensorflow==2.15.0
-opencv-python
-numpy
-Pillow
-matplotlib
-scikit-learn
+tensorflow==2.12.0
+keras==2.12.0
+numpy==1.23.5
+opencv-python==4.7.0.72
+matplotlib==3.7.1
+seaborn==0.12.2
+scikit-learn==1.2.2
+tqdm==4.65.0
+streamlit==1.25.0
+pandas==1.5.3
